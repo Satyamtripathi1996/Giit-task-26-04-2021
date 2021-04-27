@@ -19,6 +19,8 @@
 27/04/2021
 ============
 
+1. Task1-(COMPLETED)=start stop ec2 instance lambda python 
+
 
 
 
