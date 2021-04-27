@@ -39,6 +39,7 @@ Task2-(80% completed)-given by pramod sir:-=install and run docker images /conta
 
 
 Task3-(completed)-given by pramod sir:- = install Ubuntu EC2 instance.
+======
 
   ->First create an free ubuntu instance
   ->then open cmd and run this command:-
@@ -48,8 +49,11 @@ Task3-(completed)-given by pramod sir:- = install Ubuntu EC2 instance.
      
   
 Task 4=>Discuss aws (EC2) Problem with Ritesh .
+=======
+
 
 Task 5 =>Right now go to learn AWS
+========
 
 
 
