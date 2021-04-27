@@ -45,7 +45,7 @@ Task2-(80% completed)-given by pramod sir:-=install and run docker images /conta
     
 
 
-Task3-(completed)-given by pramod sir:- = install Ubuntu EC2 instance.
+Task3-(completed)- = install Ubuntu EC2 instance.
 ======
 
   ->First create an free ubuntu instance.
