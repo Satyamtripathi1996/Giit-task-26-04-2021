@@ -41,6 +41,7 @@
 
 2=Task 2= Increase the size of the disk of your EC2 instance without stopping it.
          and also created document with snapshot and upload in git also
+         
          file name  = instance disk upgrade without stop instance.pdf
 
 
