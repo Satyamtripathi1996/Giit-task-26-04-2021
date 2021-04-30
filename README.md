@@ -27,6 +27,7 @@
 ===========
 
 1-Task 1 = Learn GITLAB
+
 2=Task 2= Increase the size of the disk of your EC2 instance without stopping it.
 
 
