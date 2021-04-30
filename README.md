@@ -19,12 +19,12 @@
 27/04/2021
 ============
 
-1. Task1-(COMPLETED)=start stop ec2 instance lambda python 
+1=Task1-(COMPLETED)=start stop ec2 instance lambda python 
 
 
 28/04/2021
 ============
-1 LEARN JENKINS
+1=LEARN JENKINS
 
 
 29/04/2021
