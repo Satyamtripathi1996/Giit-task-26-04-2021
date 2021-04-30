@@ -22,6 +22,17 @@
 1. Task1-(COMPLETED)=start stop ec2 instance lambda python 
 
 
+28/04/2021
+============
+1 LEARN JENKINS
+
+
+29/04/2021
+============
+
+1=Hands-On: Building CI CD Pipeline Using Docker and Jenkins
+
+
 
 30/04/2021
 ===========
