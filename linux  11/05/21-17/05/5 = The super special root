@@ -1,0 +1,48 @@
+Super Special ROOT User
+
+ubuntu@ip-172-31-10-134:~$ man rm
+(we use rm command to remove our files)    
+
+
+
+ubuntu@ip-172-31-10-134:~$ ls
+ThisFile.txt  ThisIsFile.txt  Thisfile.txt
+ubuntu@ip-172-31-10-134:~$ rm -rf / home/theo/test
+rm: it is dangerous to operate recursively on '/'
+rm: use --no-preserve-root to override this failsafe
+(Doesn’t happen often but Ubuntu built this warning because it’s so dangerous if it does happen.)
+ubuntu@ip-172-31-10-134:~$ rm -rf / home/theo/test –no-preserve-root
+
+ 
+
+ubuntu@ip-172-31-7-93:~$ cd /home
+
+ubuntu@ip-172-31-7-93:/home$ ls
+ Ubuntu
+
+ubuntu@ip-172-31-7-93:/home$ cd /ubuntu
+-bash: cd: /ubuntu: No such file or directory
+
+ubuntu@ip-172-31-7-93:/home$ sudo su –
+root@ip-172-31-7-93:~# exit
+logout
+
+ubuntu@ip-172-31-7-93:/home$ cd ~
+
+ubuntu@ip-172-31-7-93:~$ sudo rm -rf /home/theo/test --no-preserve-root
+(if you put this command you will lose your terminal history and terminal data)
+
+ubuntu@ip-172-31-7-93:/$ exit
+logout
+
+ubuntu@ip-172-31-7-93:~$ history | grep shutdown
+   14  history | grep shutdown
+
+ubuntu@ip-172-31-7-93:~$ sudo su -
+root@ip-172-31-7-93:~# pwd
+/root
+root@ip-172-31-7-93:~# exit
+logout
+ubuntu@ip-172-31-7-93:~$ sudo cd /root
+sudo: cd: command not found
+
