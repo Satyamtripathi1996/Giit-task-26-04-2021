@@ -1,0 +1,47 @@
+                                                                Server Case
+                                                              ================
+ 
+
+ubuntu@ip-172-31-10-134:~$ ls
+
+ubuntu@ip-172-31-10-134:~$ touch  thisfile.txt ThisFile.txt Thisfile.txt
+           (we use touch command to create a file.)
+
+ubuntu@ip-172-31-10-134:~$ ls
+        (we use ls command to view our file.)
+ThisFile.txt  Thisfile.txt  thisfile.txt
+
+
+
+ubuntu@ip-172-31-10-134:~$ touch ThisIsFile.txt
+
+ubuntu@ip-172-31-10-134:~$ ls
+ThisFile.txt  ThisIsFile.txt  Thisfile.txt  thisfile.txt
+
+ubuntu@ip-172-31-10-134:~$ unlink thisfile.txt
+       (we use unlink command to delete our file.)
+
+ubuntu@ip-172-31-10-134:~$ ls
+ThisFile.txt  ThisIsFile.txt  Thisfile.txt
+
+ 
+ubuntu@ip-172-31-10-134:~$ find ThisFile*
+ThisFile.txt
+(we use  find command to find our file.)
+
+
+
+ubuntu@ip-172-31-10-134:~$ man find
+    ( if we want to search  case sensitive put this command we got a lot of help.)
+ 
+ 
+ubuntu@ip-172-31-10-134:~$ ls
+ThisFile.txt  ThisIsFile.txt  Thisfile.txt
+ubuntu@ip-172-31-10-134:~$ find -type f -iname "Thisfile.txt"
+./Thisfile.txt
+./ThisFile.txt
+(it means linux command are case sensitive.)
+ 
+(it means linux command are case sensitive because we give a CLEAR command in capital letter that’s why command not found if we give clear command in small letter then command execute )
+(LS command not found because we give a LS command in capital letter that’s why command not found if we give ls command in small letter then command execute ).
+
