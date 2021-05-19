@@ -48,13 +48,13 @@
 11/05/2021 - 17/05/2021
 =======================
 
-Task 1= learning liux ,documentation also attached here
+Task 1= learning Ubuntu ,documentation also attached here
 
 
 18/05/2021
 ============
 
-1= learn linux
+1= learn Ubuntu
 
 2 = virtual-box download and configure ,documentation  also attached here.
 
