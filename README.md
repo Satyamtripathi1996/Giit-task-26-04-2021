@@ -63,6 +63,28 @@ Task 1= learning Ubuntu ,documentation also attached here
 1= Learning ubuntu
 2= Configuration Remote Access with documentation
 
+22/05/2021
+============
+
+Linux top command use
+
+24/05/2021
+============
+
+Aws cli  configure and do start stop instance using cli
+
+25/05/2021
+============
+
+Collect Metrics and Logs from Amazon EC2 instances with the CloudWatch Agent
+
+26/05/2021
+============
+
+1.change file date and delete automatically using script
+
+2. How to change a permission of a file or  a directory.   
+
 
 
 
