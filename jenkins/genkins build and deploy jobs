@@ -1,0 +1,19 @@
+Task1-(completed) genkins build and deploy job .
+====================================================
+
+STEPS= -> First install java in your system
+
+-> Then create environment variable PATH
+
+-> Then open a java jdk file and give a path in environment variable
+
+-> Then download jenkins
+
+-> after jenkins install go to browser and open url =localhost:8080\
+
+-> after url open they ask a key open in your systen where jenkins install and you got master key those master key you put in browser after that you install
+
+->create an account
+
+->After login go to New Item,enter a name then choose freestyle project then apply and save and we see that our job has been created and then we click on run sign we see in buid queue our job has been come and we click a job and last we go to console
+
