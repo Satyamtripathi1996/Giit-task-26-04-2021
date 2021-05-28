@@ -15,5 +15,7 @@ STEPS= -> First install java in your system
 
 ->create an account
 
-->After login go to New Item,enter a name then choose freestyle project then apply and save and we see that our job has been created and then we click on run sign we see in buid queue our job has been come and we click a job and last we go to console
+->After login go to New Item,enter a name then choose freestyle project then apply and save 
+and we see that our job has been created and then we click on run sign 
+we see in buid queue our job has been come and we click a job and last we go to console
 
