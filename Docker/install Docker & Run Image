@@ -1,0 +1,15 @@
+nstall and run docker images /containers.
+========================================
+
+->First install Docker
+->After installation
+
+run this command:-
+
+->docker run -d -p 80:80 docker/getting-started
+
+->if your docker will not work properly
+
+->run this command:-
+
+C:\Program Files\Docker\Docker>DockerCli.exe -SwitchDaemon
