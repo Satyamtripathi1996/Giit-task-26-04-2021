@@ -1,0 +1,24 @@
+IAM ROLES FOR SERVICES:-
+=========================
+  =>some aws service will need to perform actions on behalf
+  =>to do so,we will assign permissions to aws services with IAM Roles
+  => Common roles:
+       1=EC2 Instance Roles
+       2=Lambda Function Roles
+       3=Roles for ClouFormation
+
+  [FIRSTLY GOES TO ROLE ,THEN CREATE ROLE,THEN EC2 THEN NEXT PERMISSION then select
+   IAMReadOnlyAccess , then next tags  after that choose key value pair ,
+   then give role name and after giving role name create a role]
+
+
+
+IAM Security tools:-
+====================
+  =>IAM Crediantials Report(account-level)
+       -a report that lists all your accout's users and the status of their various credentials.
+
+  =>IAM Access Advisor (user-level)
+       -Access advisior shows the service permission granted to a user and
+         when those services were last accessed.
+
