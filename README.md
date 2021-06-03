@@ -84,7 +84,17 @@ Collect Metrics and Logs from Amazon EC2 instances with the CloudWatch Agent
 
 1.change file date and delete automatically using script
 
-2. How to change a permission of a file or  a directory.   
+2. How to change a permission of a file or  a directory.
+
+27/05/2021 - 02/06/2021
+==========================
+
+1.Learning Shell Script in Linux
+
+2=Learning AWS
+
+
+  
 
 
 
