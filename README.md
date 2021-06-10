@@ -93,6 +93,29 @@ Collect Metrics and Logs from Amazon EC2 instances with the CloudWatch Agent
 
 2=Learning AWS
 
+03/06/2021 - 04/06/2021
+========================
+
+1 Learn Http and Https with documentation
+
+05/06/2021 - 08/06/2021
+========================
+
+1= Learn Apache2.4 & configure install
+2= production work = Allow only one ip to access a website using apachee2.4 server 
+
+09/06/2021 - 
+===================
+
+1= Daniel project 
+    -> lola.ai
+    -> leavify
+    -> MrBet
+    -> Raion
+    
+
+
+
 
   
 
