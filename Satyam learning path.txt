@@ -1,0 +1,40 @@
+                                       Devops developer
+                                       =================
+
+1st tool do = Linux full complete with bash scripting
+
+2 nd tool = AWS 
+
+3 rd tool = Docker
+
+4 th tool  = Kubernetes
+
+5 th tool = Ansible
+
+6 th tool = Git -Github
+
+7 th tool = Jenkins
+
+8 th final = create a project uing all things (at least 5 project create)
+
+9 th tool = give interview
+
+
+
+ professional tools
+=====================
+
+
+1= terraform
+
+2= Ngios
+
+3= Python
+
+4= Microsoft -Azure , Google -Cloud
+
+5= data -science
+
+6= Artifical intelligence 
+
+7 = Machine -learning
