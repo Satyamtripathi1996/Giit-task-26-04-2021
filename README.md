@@ -117,6 +117,21 @@ Collect Metrics and Logs from Amazon EC2 instances with the CloudWatch Agent
     
     -> Raion
     
+10/06/2021 - 12/06/2021
+========================
+   1= Daniel project 
+
+    -> lola.ai
+    
+    -> leavify
+    
+    -> MrBet
+    
+    -> Raion
+    
+    
+   2=  
+    -> 6 = CodeBuild CodePipeline CodeDeploy CodeCommit in AWS
 
 
 
