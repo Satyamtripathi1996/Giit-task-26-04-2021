@@ -131,7 +131,7 @@ Collect Metrics and Logs from Amazon EC2 instances with the CloudWatch Agent
     
     
    2=  
-    -> 6 = CodeBuild CodePipeline CodeDeploy CodeCommit in AWS
+    -> CodeBuild CodePipeline CodeDeploy CodeCommit in AWS
 
 
 
